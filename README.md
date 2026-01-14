@@ -1,24 +1,49 @@
-<h1 align="center">Hi 👋, I'm Ricardo Santos</h1>
-<h3 align="center">SysAdmin & DevOps Enthusiast 🚀</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardojcsantos&label=Profile%20views&color=0e75b6&style=flat" alt="ricardojcsantos" /> </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=SysAdmin+%26+DevOps+Enthusiast;Building+Secure+Infrastructure;Automating+Everything+with+Code;Linux+%7C+Docker+%7C+Terraform" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardojcsantos" alt="ricardojcsantos" /></a> </p>
+  <br/>
 
-- 🌱 I’m currently learning **Docker, Ansible, Terraform and Infrastructure as Code (IaC).**
+  <a href="https://www.linkedin.com/in/ricardojcsantos-sec">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:teuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Send_me-an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-- 👯 I’m looking to collaborate on **Source DevOps projects.**
+</div>
 
-- 💬 Ask me about **Linux, Cybersecurity, Networks and Virtualization.**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ricardojcsantos-sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardojcsantos-sec" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 👨‍💻 Sobre o Ricardo
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardojcsantos&show_icons=true&locale=en&layout=compact" alt="ricardojcsantos" /></p>
+Sou um Técnico Especialista em Cibersegurança e aspirante a DevOps Engineer. O meu foco é transformar hardware em infraestrutura resiliente e segura.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardojcsantos&show_icons=true&locale=en" alt="ricardojcsantos" /></p>
+* 🔭 **A trabalhar em:** HomeLab Enterprise-Grade (Proxmox, pfSense, VLANs).
+* 🌱 **A aprender:** Aprofundamento em IaC (Terraform & Ansible).
+* 🛡️ **Missão:** Automatizar o aborrecido e proteger o crítico.
+
+---
+
+### 🛠️ O Meu Arsenal (Tech Stack)
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+  <img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="
