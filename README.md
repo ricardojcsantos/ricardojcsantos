@@ -76,19 +76,6 @@ Este é o meu "campo de treino" onde simulo ambientes empresariais reais:
 </div>
 
 ---
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardojcsantos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojcsantos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardojcsantos&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
----
 <div align="center">
   <i>"A infraestrutura é apenas código à espera de ser escrito."</i> 🚀
 </div>
