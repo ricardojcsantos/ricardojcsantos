@@ -7,10 +7,10 @@
   <br/>
 
   <a href="https://www.linkedin.com/in/ricardojcsantos-sec">
-    <img src="https://img.shields.io/badge/LinkedIn-Ligar_agora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:teuemail@dominio.com">
-    <img src="https://img.shields.io/badge/Email-Enviar_mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:ricardojcsantos@outlook.com">
+    <img src="https://img.shields.io/badge/Send_me-an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
 </div>
