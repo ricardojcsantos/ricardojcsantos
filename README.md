@@ -17,19 +17,19 @@
 
 <br/>
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 Olá! Sou o **Ricardo Santos**, um entusiasta de tecnologia focado na transição entre a Administração de Sistemas clássica e o mundo moderno de DevOps.
 
 O meu foco atual é a **Engenharia de Infraestrutura**, onde aplico conceitos de *Infrastructure as Code* (IaC) para gerir ambientes complexos. Sou movido pela curiosidade de perceber como as coisas funcionam.
 
-- 🔭 **Projeto Atual:** Construção de um HomeLab *Enterprise-Grade* com gestão centralizada.
-- 🌱 **A aprofundar:** Orquestração de contentores e automação com Ansible/Terraform.
-- 💡 **Filosofia:** *"Se tens de fazer a mesma tarefa três vezes, automatiza-a."*
+- **Projeto Atual:** Construção de um HomeLab *Enterprise-Grade* com gestão centralizada.
+- **A aprofundar:** Orquestração de contentores e automação com Ansible/Terraform.
+- **Filosofia:** *"Se tens de fazer a mesma tarefa três vezes, automatiza-a."*
 
 ---
 
-### ⚙️ Arquitetura do HomeLab
+### Arquitetura do HomeLab
 
 Este é o meu "campo de treino" onde simulo ambientes empresariais reais:
 
@@ -42,7 +42,7 @@ Este é o meu "campo de treino" onde simulo ambientes empresariais reais:
 
 ---
 
-### 🛠️ Arsenal Tecnológico (Tech Stack)
+### Arsenal Tecnológico (Tech Stack)
 
 <div align="center">
 
